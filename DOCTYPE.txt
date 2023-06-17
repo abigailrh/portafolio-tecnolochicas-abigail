@@ -1,0 +1,58 @@
+<!DOCTYPEhtml>
+<html lang="es">
+</cabeza>
+<juego de caracteres meta="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="ancho=ancho-del-dispositivo, escala-inicial=1.0">
+    <titulo> Clon de Google </titulo>
+    <enlace rel="hoja de estilo" href="/css/main.css">
+    </cabeza>
+    </cuerpo>
+    </encabezado>
+    </navegacion>
+    <clase ul="seccion derecha de navegacion">
+        </li>-- 
+        <a href="">Gmail</a>
+    </li>--
+    </li>-- 
+    <a href="">imagenes</a>
+</li>-- 
+<li clase="icono-menu">
+    <a href="" ></a>
+    </li> -- 
+    <a href="">
+        <img src="https://lh3.googleusercontent.com/ogw/ADea417jV8sjl_k1JIt8N3vIF9PNCdHGOKj_JtYUGTbeOGQ=s64-c-mo" alt="">
+    </a>
+</li>-- 
+</ul>
+</nav>-- 
+</encabezado>
+</principal>-- 
+<seccion clase="logo-principal">
+    <img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png" alt="icono de google">
+    </seccion>
+    <clase de seccion="entrada principal">
+        <div class="contenedor-de-entrada-principal">
+            <abarcan clase="icono de busqueda">
+            </abarcan>
+            <tipo de entrada="texto">
+                <una clase="micro-icono" href="">
+                </a>
+            </div>-- 
+        </seccion>
+        <clase de seccion="botones-principales">
+            </div>-- 
+            </boton> Buscar con Google</boton>
+            </div> --
+        </div>-- 
+        </boton>Me siento con suerte</boton>
+    </div>
+</seccion>
+
+
+    
+
+            
+    
+    
+
